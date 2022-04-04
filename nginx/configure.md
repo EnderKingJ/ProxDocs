@@ -1,5 +1,7 @@
 # Nginx Configuration
 
+[Make sure to use SSL](/nginx/ssl.md)
+
 [This is a part of the Nginx guide](/nginx.md)
 
 After you have Nginx installed, configure it in `/etc/nginx/nginx.conf`. The configuration I would recommend can be found below:
