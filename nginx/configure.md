@@ -1,4 +1,6 @@
-[/nginx.md](This is a part of the Nginx guide)
+# Nginx Configuration
+
+[This is a part of the Nginx guide](/nginx.md)
 
 After you have Nginx installed, configure it in `/etc/nginx/nginx.conf`. The configuration I would recommend can be found below:
 ```nginx
