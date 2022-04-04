@@ -1,5 +1,7 @@
 ## Nginx SSL/TLS
 
+[Nginx](/nginx.md)
+
 After setting up Nginx, you may want to setup SSL through Nginx via Cerbot. To get Certbot, run the following command:
 ```sh
 $ sudo apt install certbot
