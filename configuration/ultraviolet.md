@@ -1,7 +1,7 @@
 # Ultraviolet Configuration
 Different proxies have different ways to configure them. This will go over how to configure [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet).
 <br>
-Ultraviolet has its configuration in a file called `uv.config.js`. In this case of Degeneracy, this file can be found in `public/uv/uv.config.js`. See the default configuration below:
+Ultraviolet has its configuration in a file called `uv.config.js`. In most cases, this file can be found in `public/uv/uv.config.js`. See the default configuration below:
 ```js
 self.__uv$config = {
     prefix: '/service/',
