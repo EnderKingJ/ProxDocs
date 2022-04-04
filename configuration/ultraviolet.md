@@ -1,4 +1,12 @@
 # Ultraviolet Configuration
+
+[This is a part of the configuration guide](/configuration.md)
+
+
+
+
+
+
 Different proxies have different ways to configure them. This will go over how to configure [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet).
 <br>
 Ultraviolet has its configuration in a file called `uv.config.js`. In most cases, this file can be found in `public/uv/uv.config.js`. See the default configuration below:
