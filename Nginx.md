@@ -5,6 +5,8 @@ Nginx is a common tool used for load balancing as well as reverse-proxying. We w
 
 [Configuration](/nginx/configure.md)
 
+[Advanced Configuration](/nginx/advanced.md)
+
 [Securing with SSL](/nginx/ssl.md)
 
 ## Authors
