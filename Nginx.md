@@ -1,10 +1,9 @@
 # Nginx
 Nginx is a common tool used for load balancing as well as reverse-proxying. We will be using Nginx to pass your instance to your domains as well as to add SSL to your site.
 
-Assuming you are running a system based off of Debian, run the following command to install nginx:
-```sh
-$ sudo apt install nginx
-```
+[Installation](/nginx/install.md)
+[Configuration](/nginx/configure.md)
+[Securing with SSL](/nginx/ssl.md)
 
 After you have Nginx installed, configure it in `/etc/nginx/nginx.conf`. The configuration I would recommend can be found below:
 ```nginx
