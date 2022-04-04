@@ -1,6 +1,6 @@
 ## Nginx SSL/TLS
 
-[Nginx](/nginx.md)
+[This is a part of the Nginx guide](/nginx.md)
 
 After setting up Nginx, you may want to setup SSL through Nginx via Cerbot. To get Certbot, run the following command:
 ```sh
